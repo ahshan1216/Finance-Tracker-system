@@ -1,0 +1,31 @@
+[09-Oct-2024 12:02:27 UTC] PHP Notice:  Undefined index: date_created in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/category/index.php on line 280
+[09-Oct-2024 14:47:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/get_product.php on line 8
+[09-Oct-2024 14:48:04 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/get_product.php on line 13
+[09-Oct-2024 14:48:04 UTC] PHP Notice:  Undefined index: price in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/get_product.php on line 14
+[09-Oct-2024 14:48:04 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/get_product.php on line 16
+[09-Oct-2024 14:48:04 UTC] PHP Notice:  Undefined index: price in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/get_product.php on line 16
+[09-Oct-2024 14:48:30 UTC] PHP Notice:  Undefined index: price in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/get_product.php on line 14
+[09-Oct-2024 14:48:30 UTC] PHP Notice:  Undefined index: price in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/get_product.php on line 16
+[09-Oct-2024 15:19:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 11
+[09-Oct-2024 15:22:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 11
+[09-Oct-2024 15:23:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 11
+[09-Oct-2024 15:49:10 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 21
+[09-Oct-2024 15:49:10 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 21
+[09-Oct-2024 15:49:10 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 21
+[09-Oct-2024 15:51:05 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 21
+[09-Oct-2024 15:51:05 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 21
+[09-Oct-2024 15:51:05 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 21
+[09-Oct-2024 15:51:25 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 22
+[09-Oct-2024 15:51:25 UTC] PHP Notice:  Undefined index: category_id in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 26
+[09-Oct-2024 15:51:25 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 22
+[09-Oct-2024 15:51:25 UTC] PHP Notice:  Undefined index: category_id in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 26
+[09-Oct-2024 15:51:25 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 22
+[09-Oct-2024 15:51:25 UTC] PHP Notice:  Undefined index: category_id in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 26
+[09-Oct-2024 15:51:28 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 22
+[09-Oct-2024 15:51:28 UTC] PHP Notice:  Undefined index: category_id in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 26
+[09-Oct-2024 15:51:28 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 22
+[09-Oct-2024 15:51:28 UTC] PHP Notice:  Undefined index: category_id in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 26
+[09-Oct-2024 15:51:28 UTC] PHP Notice:  Undefined index: product_name in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 22
+[09-Oct-2024 15:51:28 UTC] PHP Notice:  Undefined index: category_id in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 26
+[10-Oct-2024 12:54:37 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 18
+[10-Oct-2024 12:54:38 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/product/fatch_product.php on line 18

@@ -1,0 +1,35 @@
+[09-Oct-2024 15:38:01 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 190
+[09-Oct-2024 15:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php:190
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 190
+[09-Oct-2024 15:39:21 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 190
+[09-Oct-2024 15:39:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php:190
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 190
+[09-Oct-2024 15:39:23 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 190
+[09-Oct-2024 15:39:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php:190
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 190
+[09-Oct-2024 15:40:51 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 190
+[09-Oct-2024 15:40:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php:190
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 190
+[09-Oct-2024 15:40:52 UTC] PHP Notice:  Undefined variable: conn in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 190
+[09-Oct-2024 15:40:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php:190
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 190
+[10-Oct-2024 13:03:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php:204
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 204
+[10-Oct-2024 13:03:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php:204
+Stack trace:
+#0 {main}
+  thrown in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 204
+[10-Oct-2024 13:13:15 UTC] PHP Notice:  Undefined variable: total_rev in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 182
+[10-Oct-2024 13:13:16 UTC] PHP Notice:  Undefined variable: total_rev in /home/grohonnc/public_html/subdomainmy/esquireelectronicsltd/admin/index.php on line 182
